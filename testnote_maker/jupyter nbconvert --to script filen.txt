@@ -1,0 +1,3 @@
+jupyter nbconvert --to script KCL_Testnote_Maker_v1.0.0.ipynb
+activate rpa
+pyinstaller -w -F --icon=kclsw.ico .\KCL_Testnote_Maker_v1.0.0.py

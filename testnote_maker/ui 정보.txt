@@ -1,0 +1,47 @@
+-------MainWindow-------
+
+ROW : 0
+COL : 0
+WIDGET : QLineEdit
+NAME(ID) : Line_sel_hwp
+
+ROW : 0
+COL : 1
+WIDGET : QLineEdit
+NAME(ID) : Line_sel_hwp
+
+ROW : 1
+COL : 0
+WIDGET : QLineEdit
+NAME(ID) : Line_sel_dir
+
+ROW : 1
+COL : 1
+WIDGET : QLineEdit
+NAME(ID) : Line_sel_hwp
+
+ROW : 2
+COL : 0
+WIDGET : QLineEdit
+NAME(ID) : Line_tr_hwp
+
+ROW : 3
+COL : 0
+WIDGET : QLineEdit
+NAME(ID) : Line_tr_pdf
+
+ROW : 4
+COL : 0
+WIDGET : QLineEdit
+NAME(ID) : Line_sel_xls
+
+ROW : 5
+COL : 0
+WIDGET : QLineEdit
+NAME(ID) : Line_prs_hwp
+
+ROW : 6
+COL : 0
+WIDGET : QLineEdit
+NAME(ID) : Line_mk_xls
+
